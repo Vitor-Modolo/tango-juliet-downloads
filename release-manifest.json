@@ -1,29 +1,29 @@
 {
-  "schema_version": 1,
-  "status": "configured",
-  "latest_version": "0.1.0",
-  "artifacts": {
-    "windows": {
-      "version": "0.1.0",
-      "url": "https://github.com/Vitor-Modolo/tango-juliet-downloads/releases/download/v0.1.0/tango-juliet-0.1.0-windows.zip",
-      "sha256": "95337526681c1d64b855a1e9faf6678f0b0a241a04ffd055272480ed81af13ab",
-      "size_bytes": 699799607,
-      "install_directory": "TANGO JULIET",
-      "executable": "TANGO JULIET.exe",
-      "release_notes": [
-        "Versão de teste 0.1.0 para instalação pelo launcher."
-      ]
-    },
-    "macos": {
-      "version": "0.1.0",
-      "url": "https://github.com/Vitor-Modolo/tango-juliet-downloads/releases/download/v0.1.0-macos/tango-juliet-0.1.0-macos.zip",
-      "sha256": "cb7c9eea36579fb03d251fece86332ca4164bebcbad7f5b5028e9ae98c059fcf",
-      "size_bytes": 631928008,
-      "install_directory": "TANGO JULIET",
-      "executable": "TANGO JULIET.app/Contents/MacOS/TANGO JULIET",
-      "release_notes": [
-        "Versão de teste 0.1.0 para instalação pelo launcher."
-      ]
-    }
-  }
+    "schema_version":  1,
+    "status":  "configured",
+    "latest_version":  "0.1.1",
+    "artifacts":  {
+                      "windows":  {
+                                      "version":  "0.1.1",
+                                      "url":  "https://github.com/Vitor-Modolo/tango-juliet-downloads/releases/download/v0.1.1/tango-juliet-0.1.1-windows.zip",
+                                      "sha256":  "1108c80de78b39eca86a736ceb4843c3409aae8588b9526a7a5eafcebc48f534",
+                                      "size_bytes":  1776543726,
+                                      "install_directory":  "TANGO JULIET",
+                                      "executable":  "TANGO JULIET.exe",
+                                      "release_notes":  [
+                                                            "Versão 0.1.1: museu, praça, porão e recepção renovados, fabricação com bancada, doca e armazém, e as novas peças de exposição."
+                                                        ]
+                                  },
+                      "macos":  {
+                                    "version":  "0.1.1",
+                                    "url":  "https://github.com/Vitor-Modolo/tango-juliet-downloads/releases/download/v0.1.1-macos/tango-juliet-0.1.1-macos.zip",
+                                    "sha256":  "b92d81387bc76fb5a3cebb18810ee6cefeebeebf4da398814d531cdba5326c4e",
+                                    "size_bytes":  1703082312,
+                                    "install_directory":  "TANGO JULIET",
+                                    "executable":  "TANGO JULIET.app/Contents/MacOS/TANGO JULIET",
+                                    "release_notes":  [
+                                                          "Versão 0.1.1: museu, praça, porão e recepção renovados, fabricação com bancada, doca e armazém, e as novas peças de exposição."
+                                                      ]
+                                }
+                  }
 }
